@@ -8,6 +8,6 @@ draft: false
 **姓名**: 杨婷
 **专业**: 新能源材料与器件
 
-![个人照片](/images/profile.jpg)
+![个人照片](/hugo-blog/images/profile.jpg)
 
 我是一名本科生，正在学习 Linux 系统管理、Shell 脚本与 Web 部署。
