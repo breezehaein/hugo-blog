@@ -6,3 +6,5 @@ categories: ["Linux课程"]
 tags: ["文件管理", "命令行"]
 ---
 
+
+👉 [点击查看实验一 PDF 完整版](/hugo-blog/pdfs/lab1.pdf)
